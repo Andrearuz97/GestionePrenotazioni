@@ -43,7 +43,7 @@ public class DataInitializer implements CommandLineRunner {
 		Utente user3 = new Utente("Gigi_xD", "Gigi Proietti", "gigioproie@hotmail.it");
 		user3 = userRepository.save(user3);
 
-		Utente user4 = new Utente("Ajeje_58", "Ajeje Brazorf", "ajeje.braz58@yahoo.it");
+		Utente user4 = new Utente("Ajeje_65", "Ajeje Brazorf", "ajeje.braz65@yahoo.it");
 		user4 = userRepository.save(user4);
 
 		Utente user5 = new Utente("Giuseppe_green", "Giuseppe Verdi", "pepgreen@libero.it");
